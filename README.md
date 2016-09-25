@@ -1,2 +1,5 @@
 # hello-world
-new trial repo
+
+ Hi me
+ 
+ Tring out somehting i already do daily 
